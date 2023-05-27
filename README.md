@@ -1,4 +1,4 @@
-# lab1
+# Lab1
 **Titanic Prediction Kaggle Challenge**
 This repository contains the code and documentation for the famous Titanic prediction challenge on Kaggle. The goal of this challenge is to use machine learning techniques to predict the survival outcome of passengers aboard the Titanic based on various features such as age, gender, ticket class, and cabin.
 
